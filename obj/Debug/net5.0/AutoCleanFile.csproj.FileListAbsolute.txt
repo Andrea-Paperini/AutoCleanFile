@@ -1,0 +1,16 @@
+C:\Users\Andre\source\repos\AutoCleanFile\AutoCleanFile\bin\Debug\net5.0\AutoCleanFile.exe
+C:\Users\Andre\source\repos\AutoCleanFile\AutoCleanFile\bin\Debug\net5.0\AutoCleanFile.deps.json
+C:\Users\Andre\source\repos\AutoCleanFile\AutoCleanFile\bin\Debug\net5.0\AutoCleanFile.runtimeconfig.json
+C:\Users\Andre\source\repos\AutoCleanFile\AutoCleanFile\bin\Debug\net5.0\AutoCleanFile.runtimeconfig.dev.json
+C:\Users\Andre\source\repos\AutoCleanFile\AutoCleanFile\bin\Debug\net5.0\AutoCleanFile.dll
+C:\Users\Andre\source\repos\AutoCleanFile\AutoCleanFile\bin\Debug\net5.0\AutoCleanFile.pdb
+C:\Users\Andre\source\repos\AutoCleanFile\AutoCleanFile\obj\Debug\net5.0\AutoCleanFile.csproj.AssemblyReference.cache
+C:\Users\Andre\source\repos\AutoCleanFile\AutoCleanFile\obj\Debug\net5.0\AutoCleanFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\source\repos\AutoCleanFile\AutoCleanFile\obj\Debug\net5.0\AutoCleanFile.AssemblyInfoInputs.cache
+C:\Users\Andre\source\repos\AutoCleanFile\AutoCleanFile\obj\Debug\net5.0\AutoCleanFile.AssemblyInfo.cs
+C:\Users\Andre\source\repos\AutoCleanFile\AutoCleanFile\obj\Debug\net5.0\AutoCleanFile.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\AutoCleanFile\AutoCleanFile\obj\Debug\net5.0\AutoCleanFile.dll
+C:\Users\Andre\source\repos\AutoCleanFile\AutoCleanFile\obj\Debug\net5.0\refint\AutoCleanFile.dll
+C:\Users\Andre\source\repos\AutoCleanFile\AutoCleanFile\obj\Debug\net5.0\AutoCleanFile.pdb
+C:\Users\Andre\source\repos\AutoCleanFile\AutoCleanFile\obj\Debug\net5.0\AutoCleanFile.genruntimeconfig.cache
+C:\Users\Andre\source\repos\AutoCleanFile\AutoCleanFile\obj\Debug\net5.0\ref\AutoCleanFile.dll
